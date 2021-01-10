@@ -2,7 +2,7 @@
 
 #### I build web apps with Laravel and VueJS.
 
-- 📍 Nicosia, CYP
+- 📍 Nicosia, Cyprus
 - 🏢 I'm currently working at **@joinjit**
 - ⚙️ I use daily: `.php`, `.vue`, `.js`, `.html`, `.scss`
 - 👨🏻‍💻 You can find more about me [here](https://joekaram.me).
