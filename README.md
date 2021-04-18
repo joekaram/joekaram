@@ -2,10 +2,9 @@
 
 #### I build web apps with Laravel and VueJS.
 
-- 📍 Nicosia, Cyprus
-- 🏢 I'm currently working at **@joinjit**
+- 📍 Limassol, Cyprus
+- 🏢 I'm currently working at **Flexi Stax**
 - ⚙️ I use daily: `.php`, `.vue`, `.js`, `.html`, `.scss`
-- 👨🏻‍💻 You can find more about me [here](https://joekaram.me).
 
 #### Find me around the 🌍
 - 📫 [Send](mailto:joekaram97@gmail.com) me an email.
