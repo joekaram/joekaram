@@ -3,7 +3,7 @@
 #### I build web apps with Laravel and VueJS.
 
 - 📍 Limassol, Cyprus
-- 🏢 I'm currently working at **Flexi Stax**
+- 🏢 I'm currently working in Limassol.
 - ⚙️ I use daily: `.php`, `.vue`, `.js`, `.html`, `.scss`
 
 #### Find me around the 🌍
